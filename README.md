@@ -7,8 +7,10 @@ Creation of Buying Table:
 Procedure:
 1)	Open Start  Programs  Accessories  Notepad
 2)	Type the following training data set with the help of Notepad for Buying Table.
-   @relation buying
-```@attribute age {L20,20-40,G40}
+
+```
+@relation buying
+@attribute age {L20,20-40,G40}
 @attribute income {high,medium,low}
 @attribute stud {yes,no}
 @attribute creditrate {fair,excellent}
@@ -29,7 +31,7 @@ L20,low,yes,fair,yes
 20-40,medium,yes,excellent,yes
   	L20,medium,yes,fair,yes
   	G40,high,yes,excellent,yes
-
+```
 4)	After that the file is saved with .arff file format.
 5)	Minimize the arff file and then open Start  Programs  weka-3-4.
 6)	Click on weka-3-4, then Weka dialog box is displayed on the screen.
@@ -51,7 +53,7 @@ Procedure for Association Rules:
  <img width="1060" height="851" alt="image" src="https://github.com/user-attachments/assets/51f8ee80-b3c4-4fe8-877d-d7ccc0ed66c7" />
 
 
-Output:
+### Output:
 
  <img width="923" height="560" alt="image" src="https://github.com/user-attachments/assets/8e87b425-325c-493e-86b3-1780e423c255" />
 
@@ -89,5 +91,5 @@ Output:
 
 
 
-Result:
+### Result:
 Thus, this program has been successfully executed.
