@@ -1,10 +1,10 @@
 # WDM-Ex.NO-2A-ASSOCIATION-RULES-FOR-ITEMS-DATASET-IN-WEKA-
-Aim:
+### Aim:
 To Find the Association Rules for Buying dataset.
-Description:
+#### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered in databases using different measures of interestingness. In market basket analysis association rules are used and they are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
-Creation of Buying Table:
-Procedure:
+## Creation of Buying Table:
+#### Procedure:
 1)	Open Start  Programs  Accessories  Notepad
 2)	Type the following training data set with the help of Notepad for Buying Table.
 
@@ -42,7 +42,7 @@ L20,low,yes,fair,yes
 Training Data Set  Buying Table
 <img width="730" height="786" alt="image" src="https://github.com/user-attachments/assets/fe39fa3c-e5fe-459c-a376-9dd6d5d56a1b" />
 
-Procedure for Association Rules:
+### Procedure for Association Rules:
 1)	Open Start  Programs  Weka-3-4  Weka-3-4
 2)	Open explorer.
 3)	Click on open file and select buying.arff
